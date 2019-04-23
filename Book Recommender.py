@@ -2,7 +2,7 @@
 # coding: utf-8
 
 # In[1]:
-
+#help Guide https://www.dropbox.com/s/7mis5yu7fukcv6h/Book%20Recommender%20Walkthrough.mov?dl=0
 
 import numpy as np # linear algebra
 import pandas as pd # data processing, CSV file I/O (e.g. pd.read_csv)
