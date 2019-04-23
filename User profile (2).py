@@ -3,7 +3,7 @@
 
 # In[12]:
 
-
+#help guide https://www.dropbox.com/s/7mis5yu7fukcv6h/Book%20Recommender%20Walkthrough.mov?dl=0
 import pandas
 import csv
 import numpy as np # linear algebra
